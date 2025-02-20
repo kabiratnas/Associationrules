@@ -1,4 +1,4 @@
-# Associationrules
+# Apriori Algorithm
 # Association Rule Mining with Apriori Algorithm
 
 ## Overview
