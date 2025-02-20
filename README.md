@@ -44,7 +44,7 @@ frequent_itemsets <- apriori(trans, parameter = list(support = 0.5, target = "fr
 # View results
 inspect(frequent_itemsets)
 ```
-   items  support count
+#items  support count
 [1] {A}    0.8     4    
 [2] {C}    0.8     4    
 [3] {A, C} 0.6     3    
